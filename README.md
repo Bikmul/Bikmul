@@ -7,7 +7,7 @@
 ---
 👨‍💻: About Me :
 
-  I am a beginner programmer from 🇷🇺 Russia, Kazan.
+I am a beginner programmer from 🇷🇺 Russia, Kazan.
   
   -I am studying at Kazan National Research Technical University A.N. Tupolev-KAI, specialty 09.03.01 - Informatics and Computer Engineering
   

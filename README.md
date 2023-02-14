@@ -13,9 +13,10 @@
 #### :student:I am studying at Kazan National Research Technical University A.N. Tupolev-KAI:airplane:
 ####     specialty 09.03.01 - Informatics and Computer Engineering
 #### :student:Additionally, I get an education at the international School 21. My nickname: dtwanda
- 
   
 ---
+
+## :hammer_and_wrench: Languages and Tools :
 
 <!--
 **Bikmul/Bikmul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

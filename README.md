@@ -4,6 +4,7 @@
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/telegram-Bikmul__24-blue?style=for-the-badge&logo=tg&logoColor=white">
 </div>
+---
 👨‍💻: About Me :
 
   I am a beginner programmer from :Russia Russia, Kazan.'\n'

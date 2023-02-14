@@ -11,7 +11,7 @@
   -I am studying at Kazan National Research Technical University A.N. Tupolev-KAI, specialty 09.03.01 - Informatics and Computer Engineering\n
   -Additionally, I get an education at the international School 21. My nickname is dtwanda\n
   
-| [top](#flags) | :ru: | `:ru:` | :rwanda: | `:rwanda:` | [top](#table-of-contents) |
+(#flags) | :ru: |
 <!--
 **Bikmul/Bikmul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

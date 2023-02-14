@@ -9,9 +9,9 @@
 
 I am a beginner programmer from 🇷🇺 Russia, Kazan.
   
-  -I am studying at Kazan National Research Technical University A.N. Tupolev-KAI, specialty 09.03.01 - Informatics and Computer Engineering
+  -I am studying at Kazan National Research Technical University A.N. Tupolev-KAI:airplane:, specialty 09.03.01 - Informatics and Computer Engineering
   
-  -Additionally, I get an education at the international School 21. My nickname is dtwanda
+  -Additionally, I get an education at the international :two::one:School 21. My nickname is dtwanda
   
 <!--
 **Bikmul/Bikmul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

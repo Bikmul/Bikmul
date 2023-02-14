@@ -5,10 +5,7 @@
   <img src="https://img.shields.io/badge/telegram-Bikmul__24-blue?style=for-the-badge&logo=tg&logoColor=white">
 </div>
 
-
 ---
-
-
 
 👨‍💻: About Me :
 
@@ -18,7 +15,10 @@ I am a beginner programmer from 🇷🇺 Russia, Kazan.
   specialty 09.03.01 - Informatics and Computer Engineering
   
   -:student:Additionally, I get an education at the international School 21. My nickname is dtwanda
+ 
   
+---
+
 <!--
 **Bikmul/Bikmul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

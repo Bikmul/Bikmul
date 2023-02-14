@@ -6,9 +6,9 @@
 </div>
 👨‍💻: About Me :
 
-  I am a beginner programmer from :Russia Russia, Kazan.
-  -I am studying at Kazan National Research Technical University A.N. Tupolev-KAI, specialty 09.03.01 - Informatics and Computer Engineering
-  -Additionally, I get an education at the international School 21. My nickname is dtwanda
+  I am a beginner programmer from :Russia Russia, Kazan.\n
+  -I am studying at Kazan National Research Technical University A.N. Tupolev-KAI, specialty 09.03.01 - Informatics and Computer Engineering\n
+  -Additionally, I get an education at the international School 21. My nickname is dtwanda\n
   
 
 <!--

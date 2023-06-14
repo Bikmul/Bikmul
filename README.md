@@ -36,7 +36,7 @@
 ---
 
 ## :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Bikmul)]
+![GitHub Streak](https://streak-stats.demolab.com/?user=Bikmul)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bikmul&layout=pie)](https://github.com/Bikmul/github-readme-stats)
 
 

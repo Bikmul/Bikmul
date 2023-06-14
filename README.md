@@ -7,6 +7,12 @@
   <img src="https://img.shields.io/badge/telegram-Bikmul__24-blue?style=for-the-badge&logo=tg&logoColor=white">
   </a>
 </div>
+<div id="badges" align="center">
+  <a href="">
+  <img src="![68747470733a2f2f696d672e736869656c64732e696f2f62616467652fd0a0d0b5d0b7d18ed0bcd0b52d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://github.com/Bikmul/Bikmul/assets/100793857/3bd565bc-8886-47a8-adea-53e48cb32f13)
+">
+  </a>
+</div>
 
 ---
 

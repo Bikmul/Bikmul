@@ -7,11 +7,6 @@
   <img src="https://img.shields.io/badge/telegram-Bikmul__24-blue?style=for-the-badge&logo=tg&logoColor=white">
   </a>
 </div>
-<div id="badges" align="center">
-  <a href="file:///Users/dtwanda/Downloads/%D0%90%D0%BC%D0%B8%D1%80_s-Resume.html">
-  <img src="https://img.shields.io/badge/CV-CV-green">
-  </a>
-</div>
 
 ---
 

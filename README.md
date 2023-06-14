@@ -8,7 +8,7 @@
   </a>
 </div>
 <div id="badges" align="center">
-  <a href=[CV.pdf](https://github.com/Bikmul/Bikmul/CV.pdf>
+  <a href="file:///Users/dtwanda/Downloads/%D0%90%D0%BC%D0%B8%D1%80_s-Resume.html">
   <img src="https://img.shields.io/badge/CV-CV-green">
   </a>
 </div>

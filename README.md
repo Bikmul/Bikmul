@@ -8,7 +8,8 @@
   </a>
 </div>
 <div id="badges" align="center">
-  <a href="https://t.me/Bikmul_24">
+  <a href="[Амир's Resume.pdf](https://github.com/Bikmul/Bikmul/files/11747596/s.Resume.pdf)
+">
   <img src="https://img.shields.io/badge/CV-CV-green">
   </a>
 </div>

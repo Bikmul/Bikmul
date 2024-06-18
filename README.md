@@ -9,7 +9,7 @@
 
 ## 👨‍💻: About Me :
 
-#### I am a beginner programmer from 🇷🇺 Russia, Kazan.
+#### I am programmer from 🇷🇺 Russia, Kazan.
 #### :student:I am studying at Kazan National Research Technical University A.N. Tupolev-KAI:airplane:
 ####     specialty 09.03.01 - Informatics and Computer Engineering
 #### :student:Additionally, I get an education at the international School 21. My nickname: dtwanda
